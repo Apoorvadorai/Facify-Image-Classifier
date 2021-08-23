@@ -1,0 +1,11 @@
+data/UTKFace/images/
+logs/
+checkpoints/
+.svn/
+__pycache__/
+*.png
+.png
+*.tar.xz
+.jpg
+outputs/
+input/
